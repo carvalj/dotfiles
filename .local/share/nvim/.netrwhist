@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/mnt/shared/Documents/purdue/CS159TA/cs159-grading-companion/docs/index.md'
+let g:netrw_dirhist_1='/mnt/shared/Documents/purdue/spring2025/ECE264/hw11-binary-tree-carvalj'
+let g:netrw_dirhist_0='/mnt/shared/comp_prog/practice'
+let g:netrw_dirhist_9='/mnt/shared/projects/25frieda-chess-comp/judge'
+let g:netrw_dirhist_8='/mnt/shared/projects/25frieda-chess-comp'
+let g:netrw_dirhist_7='/mnt/shared/projects/25frieda-chess-comp/judge/Makefile'
+let g:netrw_dirhist_6='/mnt/shared/Documents/purdue/spring2025/ECE264/strings-to-long-integers-carvalj'
+let g:netrw_dirhist_5='/mnt/shared/ioccc/2025/fibbonaci'
+let g:netrw_dirhist_4='/mnt/shared/personal-page/carvalj.github.io/_drafts'
+let g:netrw_dirhist_3='/mnt/shared/personal-page/carvalj.github.io/_layouts'
